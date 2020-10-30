@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUHc7F+IV/fa6fNaJCvUr8OH6hqMhw7fFT9i7HP878xS1RV8LIYWrH++eG4WfKge8i1H3Q4TTk5K1htl/PnKWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Scheduler\\TaxScheduler\\TaxScheduler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suresh Palepu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

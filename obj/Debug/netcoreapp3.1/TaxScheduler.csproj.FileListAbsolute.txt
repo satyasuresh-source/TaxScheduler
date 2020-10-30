@@ -1,0 +1,4 @@
+C:\Users\Suresh Palepu\Source\Repos\Scheduler\TaxScheduler\obj\Debug\netcoreapp3.1\TaxScheduler.csprojAssemblyReference.cache
+C:\Users\Suresh Palepu\Source\Repos\Scheduler\TaxScheduler\obj\Debug\netcoreapp3.1\TaxScheduler.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\Source\Repos\Scheduler\TaxScheduler\obj\Debug\netcoreapp3.1\TaxScheduler.AssemblyInfo.cs
+C:\Users\Suresh Palepu\Source\Repos\Scheduler\TaxScheduler\obj\Debug\netcoreapp3.1\TaxScheduler.csproj.CoreCompileInputs.cache
